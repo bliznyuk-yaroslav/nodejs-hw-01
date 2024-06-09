@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "name": "Hector Osinski",
+    "phone": "554.691.6870 x80152",
+    "email": "Patience32@hotmail.com",
+    "job": "Forward Branding Designer"
+  },
+  {
+    "name": "Chris Senger",
+    "phone": "726-858-7847 x84046",
+    "email": "Hugh_Shanahan@gmail.com",
+    "job": "Future Operations Technician"
+  },
+  {
+    "name": "Mindy Langworth",
+    "phone": "830-697-1531 x118",
+    "email": "Janet_Wiza@hotmail.com",
+    "job": "National Integration Analyst"
+  },
+  {
+    "name": "Randy O'Connell",
+    "phone": "609-783-3885",
+    "email": "Kade_Spinka2@gmail.com",
+    "job": "Senior Functionality Assistant"
+  },
+  {
+    "name": "Kay Greenholt III",
+    "phone": "(881) 747-6685 x9707",
+    "email": "Raleigh5@gmail.com",
+    "job": "Internal Tactics Liaison"
+  },
+  {
+    "name": "Louis Schmidt",
+    "phone": "911.708.6219",
+    "email": "Mara75@gmail.com",
+    "job": "Chief Factors Supervisor"
+  }
+]
